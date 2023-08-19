@@ -1,0 +1,6 @@
+venv
+*.pyc
+sieman/api/migrations
+.vscode/
+*.env
+sieman/backup_data.json
